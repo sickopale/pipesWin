@@ -3,10 +3,10 @@
 
 using namespace std;
 
-LPCSTR A_path = R"(C:\OS\Pipe Windows\A\cmake-build-debug\A.exe)";
-LPCSTR M_path = R"(C:\OS\Pipe Windows\M\cmake-build-debug\M.exe)";
-LPCSTR S_path = R"(C:\OS\Pipe Windows\S\cmake-build-debug\S.exe)";
-LPCSTR P_path = R"(C:\OS\Pipe Windows\P\cmake-build-debug\P.exe)";
+LPCSTR A_path = R"(D:\CLionProjects\pipes\A\cmake-build-debug\A.exe)";
+LPCSTR M_path = R"(D:\CLionProjects\pipes\M\cmake-build-debug\M.exe)";
+LPCSTR S_path = R"(D:\CLionProjects\pipes\S\cmake-build-debug\S.exe)";
+LPCSTR P_path = R"(D:\CLionProjects\pipes\P\cmake-build-debug\P.exe)";
 
 const unsigned int Size = 50;
 
